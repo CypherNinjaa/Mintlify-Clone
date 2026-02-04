@@ -5,10 +5,8 @@ A desktop-first documentation-style website inspired by the [Mintlify website](h
 ##  Screenshots
 
 ### Full Page Overview
-![Mintlify Clone - Full Page](screenshots/Mintlify%2001.jpg)
+![Mintlify Clone - Full Page](./screenshots/cypherninjaa.github.io_Mintlify-Clone_.png)
 
-### Additional View
-![Mintlify Clone - Additional Section](screenshots/Mintlify%2002.jpg)
 
 ##  Sections Recreated
 
